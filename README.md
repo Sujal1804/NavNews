@@ -1,4 +1,4 @@
-# Uber App News 🚗📱
+# NavNews 🚗📱
 
 A comprehensive ride-sharing application with real-time tracking, news updates, and seamless user experience for both passengers and drivers.
 
